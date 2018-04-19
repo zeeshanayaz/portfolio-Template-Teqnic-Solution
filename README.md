@@ -1,2 +1,2 @@
-# portfolio-Template-Teqnic-Solution
-Teqnic Solution
+# Teqnic Solution
+## Portfolio Template
